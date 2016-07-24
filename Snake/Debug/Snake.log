@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\andrew hyun\programming adventure!\c++ adventure\games\snake\snake\snake\source.cpp(26): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Snake.vcxproj -> C:\Users\Andrew Hyun\Programming Adventure!\C++ ADVENTURE\Games\Snake\Snake\Debug\Snake.exe
+  Snake.vcxproj -> C:\Users\Andrew Hyun\Programming Adventure!\C++ ADVENTURE\Games\Snake\Snake\Debug\Snake.pdb (Partial PDB)
